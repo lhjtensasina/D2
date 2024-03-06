@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: OpenWrt Builder
+name: D2-240306-1
 
 on:
   repository_dispatch:
